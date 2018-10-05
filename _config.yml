@@ -23,3 +23,6 @@ version:             1.0.0
 # url
 category_dir: category/
 tag_dir: tag/
+
+# gem 설정을 추가
+plugins: ['jekyll-paginate']
