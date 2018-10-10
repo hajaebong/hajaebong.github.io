@@ -105,3 +105,9 @@ comments: true
 
 ### **17.post를 작성 할때 아래 처럼 설정 값을 주면 그 포스트에 댓글기능이 붙게 됩니다.**
 ![sel]({{site.url}}/assets/sel.JPG)
+
+<br><br>
+참고 URL
+
+- https://cjh5414.github.io/Disqus/
+- https://17billion.github.io/jekyll/disqus/reply/2017/06/01/jekyll_disqus.html
