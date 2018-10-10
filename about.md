@@ -4,27 +4,42 @@ title: About
 ---
 
 <p class="message">
-  안녕하세요. 개발자
+  안녕하세요. 벡엔드 개발자 JB입니다. 늦은 나이에 개발에 입문하여 개발에 재미를 붙이고 있습니다.
+  늦게 시작한 만큼 열심히 하려는데 자꾸 까먹어서 이 블로그를 운영하여 하나하나 다시 기억하는 계기로 삼으려고 합니다. 
+  <br>
+  틀린것이 있다면 코멘트 달아 주시면 감사하겠습니다.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## 기술이력
 
-There are currently two themes built on Poole:
+* PHP
+* Laravel
+* Wordpress
+* JAVA, JAVAFX
+* MYSQL
+* AEM(Adobe Experience Manager)
+* GIT
+* Linux-Centos
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## 프로젝트 참여 이력
+* [삼성 뉴스룸](https://news.samsung.com)- 한국,US는 제외
+<br>-포지션: 삼성뉴스룸 유지 보수 및 플러그인 개발
+<br>
+<br>
+* [보험리모델링](http://bore.co.kr/)
+<br>-포지션: 사이트 벡엔드 개발 및 유지 보수
+<br>-사용언어: PHP
+<br>-플레임워크: Laravel
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [원앤원](https://wonandone.co.kr/), [박가부대](https://parkga.co.kr/), [원할머니 보쌈](https://bossam.co.kr/), [성공창업](http://success.wonandone.co.kr/main/index.php)
+<br>-포지션: 사이트 벡엔드 개발(추가 필요기능 개발) 및 유지보수
+<br>-사용언어: PHP
 
-## Setup
+* 삼성닷컴 AEM static component개발
+<br>-포지션: AEM static component개발
+<br>-사용언어: html, javascript, jQuery, sightly, sling
+<br>-사용 CMS: Adobe Experience Manager, CRXDE
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+<br>
+<br>
+제 블로그를 방문해주셔서 감사합니다.
