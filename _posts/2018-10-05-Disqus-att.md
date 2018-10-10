@@ -109,5 +109,6 @@ comments: true
 <br><br>
 참고 URL
 
-- https://cjh5414.github.io/Disqus/
-- https://17billion.github.io/jekyll/disqus/reply/2017/06/01/jekyll_disqus.html
+- [https://cjh5414.github.io/Disqus/](https://cjh5414.github.io/Disqus/
+)
+- [https://17billion.github.io/jekyll/disqus/reply/2017/06/01/jekyll_disqus.html](https://17billion.github.io/jekyll/disqus/reply/2017/06/01/jekyll_disqus.html)
