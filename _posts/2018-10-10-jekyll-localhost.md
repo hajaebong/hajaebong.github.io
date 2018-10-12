@@ -6,6 +6,7 @@ tag :  jekyll
 comments: true
 ---
 
+<!--excerpt.start-->
 <div class="message">
   jekyll 블로그를 만들고 github로 호스팅을 했습니다.<br> 
   그런데..........<br>
@@ -13,6 +14,7 @@ comments: true
   블로그에 보여지게 되니... 참으로 난감했다.^^;;;<br> 
   그래서 <strong>localhost</strong> 가 필요함을 느꼈다....
 </div>
+<!--excerpt.end-->
 
 ## 1. jekyll이 사용하는언어?
 - ruby기반의 언어이다.<br>
