@@ -6,13 +6,16 @@ tag :  jekyll
 comments: true
 ---
 
+<!--excerpt.start-->
 <div class="message">
   안녕하세요, 이번 포스트는 jekyll에 disqus댓글을 달아 보는것을 하겠습니다.
 </div>
+<!--excerpt.end-->
 
 ### **1.[Disqus](http://https://disqus.com/) 접속해서 가입**
 ![index]({{site.url}}/assets/index.JPG)
-<br> 
+<br>
+
 
 ### **2.GET STARTED 누르면 아래와 같은 Signup 화면이 나옵니다.**
 ![sign_up]({{site.url}}/assets/signup.JPG)
