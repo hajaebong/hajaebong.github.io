@@ -6,7 +6,7 @@ permalink:           pretty
 # Setup
 title:               JB's Factory
 tagline:             'Backend dev'
-description:         '웹개발자 하재봉입니다.배운것들을 안잊어버리기 위해 쓴느 블로그 입니다.<a href="https://hajaebong.github.io/" target="_blank">hajaebong</a>.'
+description:         '웹개발자 JB입니다.<br>배운것들을 안잊어버리기 위해 쓰는 블로그 입니다.<br><a href="https://hajaebong.github.io/" target="_blank">@JB</a>.'
 url:                 https://hajaebong.github.io/
 baseurl:             ''
 paginate:            5
