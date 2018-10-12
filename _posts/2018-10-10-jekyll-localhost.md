@@ -13,7 +13,6 @@ comments: true
   블로그에 보여지게 되니... 참으로 난감했다.^^;;;<br> 
   그래서 <strong>localhost</strong> 가 필요함을 느꼈다....
 </div>
-<!--break-->
 
 ## 1. jekyll이 사용하는언어?
 - ruby기반의 언어이다.<br>
