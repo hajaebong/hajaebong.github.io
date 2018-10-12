@@ -27,5 +27,5 @@ tag_dir: tag/
 # gem 설정을 추가
 plugins: ['jekyll-paginate']
 
-#요약문 구분자
+# 요약문 구분자
 excerpt_seperator:  <!--break-->
